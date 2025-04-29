@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "true",
+        "NavOpened": "false",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}"
     },
     "currentVersion": "1.12.14",
@@ -1049,8 +1049,8 @@
         "n": 1
     },
     "background": {
-        "name": "__transparent.png",
-        "url": "url(\"backgrounds/__transparent.png\")",
+        "name": "japan classroom side.jpg",
+        "url": "url(\"backgrounds/japan classroom side.jpg\")",
         "fitting": "classic"
     },
     "proxies": [
