@@ -387,7 +387,8 @@
         "selectSamplers": {
             "forceHidden": [],
             "forceShown": []
-        }
+        },
+        "wi_key_input_plaintext": true
     },
     "extension_settings": {
         "apiUrl": "http://localhost:5100",
@@ -478,7 +479,9 @@
         },
         "dice": {},
         "regex": [],
-        "character_allowed_regex": [],
+        "character_allowed_regex": [
+            "- juus -.png"
+        ],
         "tts": {
             "voiceMap": "",
             "ttsEnabled": false,
