@@ -3,7 +3,8 @@
     "accountStorage": {
         "__migrated": "1",
         "NavOpened": "true",
-        "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}"
+        "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
+        "LNavOpened": "true"
     },
     "currentVersion": "1.12.14",
     "username": "le",
