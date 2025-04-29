@@ -1049,8 +1049,8 @@
         "n": 1
     },
     "background": {
-        "name": "japan classroom side.jpg",
-        "url": "url(\"backgrounds/japan classroom side.jpg\")",
+        "name": "japan classroom.jpg",
+        "url": "url(\"backgrounds/japan classroom.jpg\")",
         "fitting": "classic"
     },
     "proxies": [
