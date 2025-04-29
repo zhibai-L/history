@@ -1,10 +1,14 @@
 {
     "firstRun": false,
     "accountStorage": {
-        "__migrated": "1"
+        "__migrated": "1",
+        "NavOpened": "true",
+        "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}"
     },
     "currentVersion": "1.12.14",
     "username": "le",
+    "active_character": "default_Seraphina.png",
+    "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -369,7 +373,7 @@
         "reduced_motion": false,
         "compact_input_area": true,
         "show_swipe_num_all_messages": false,
-        "auto_connect": false,
+        "auto_connect": true,
         "auto_load_chat": false,
         "forbid_external_media": true,
         "external_media_allowed_overrides": [],
@@ -443,7 +447,11 @@
         "note": {
             "default": "",
             "chara": [],
-            "wiAddition": []
+            "wiAddition": [],
+            "defaultPosition": 1,
+            "defaultDepth": 4,
+            "defaultInterval": 1,
+            "defaultRole": 0
         },
         "caption": {
             "refine_mode": false,
