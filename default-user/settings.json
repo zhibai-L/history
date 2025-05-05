@@ -395,7 +395,9 @@
         "apiKey": "",
         "autoConnect": false,
         "notifyUpdates": false,
-        "disabledExtensions": [],
+        "disabledExtensions": [
+            "third-party/st-memory-enhancement"
+        ],
         "expressionOverrides": [],
         "memory": {
             "minLongMemory": 16,
