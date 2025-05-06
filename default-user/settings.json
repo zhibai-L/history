@@ -328,13 +328,21 @@
             "max_additions": 1
         },
         "personas": {
-            "user-default.png": "le"
+            "user-default.png": "le",
+            "1746504733143-123.png": "123"
         },
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
                 "description": "abcdefg",
                 "position": 0
+            },
+            "1746504733143-123.png": {
+                "description": "",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": ""
             }
         },
         "persona_description": "abcdefg",
