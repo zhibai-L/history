@@ -334,7 +334,7 @@
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
-                "description": "abcdefg",
+                "description": "",
                 "position": 0
             },
             "1746504733143-123.png": {
@@ -345,7 +345,7 @@
                 "lorebook": ""
             }
         },
-        "persona_description": "abcdefg",
+        "persona_description": "",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
