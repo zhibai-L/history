@@ -334,7 +334,7 @@
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
-                "description": "[{user}]",
+                "description": "[{user}是一个]",
                 "position": 0
             },
             "1746504733143-123.png": {
@@ -345,7 +345,7 @@
                 "lorebook": ""
             }
         },
-        "persona_description": "[{user}]",
+        "persona_description": "[{user}是一个]",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
