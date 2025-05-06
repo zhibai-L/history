@@ -333,11 +333,11 @@
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
-                "description": "abcd",
+                "description": "abcdefg",
                 "position": 0
             }
         },
-        "persona_description": "abcd",
+        "persona_description": "abcdefg",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
