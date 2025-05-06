@@ -203,7 +203,7 @@
         "chat_truncation": 100,
         "streaming_fps": 30,
         "smooth_streaming": true,
-        "smooth_streaming_speed": 70,
+        "smooth_streaming_speed": 50,
         "fast_ui_mode": true,
         "avatar_style": 0,
         "chat_display": 0,
