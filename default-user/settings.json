@@ -10,12 +10,12 @@
         "AlertRegex_- juus -.png": "true"
     },
     "currentVersion": "1.12.14",
-    "username": "le",
+    "username": "123",
     "active_character": "default_Seraphina.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
-    "user_avatar": "user-default.png",
+    "user_avatar": "1746504733143-123.png",
     "amount_gen": 350,
     "max_context": 8192,
     "main_api": "openai",
@@ -345,7 +345,7 @@
                 "lorebook": ""
             }
         },
-        "persona_description": "abcdefg",
+        "persona_description": "",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
