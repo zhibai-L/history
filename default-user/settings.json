@@ -1638,7 +1638,7 @@
                 "marker": false,
                 "name": "✅对话加强",
                 "role": "system",
-                "content": "<dialogue_control>\n- 内容中必须包含大量角色对白\n- 用对白 推进叙事/展现人物性格\n- 对话占比需超过100%\n</dialogue_control>\n",
+                "content": "<dialogue_control>\n- 内容中必须包含大量角色对白\n- 用对白 推进叙事/展现人物性格\n- 对话占比需超过40%\n</dialogue_control>\n",
                 "injection_position": 0,
                 "injection_depth": 4,
                 "forbid_overrides": false
