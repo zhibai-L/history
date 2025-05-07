@@ -261,7 +261,7 @@
         "mesIDDisplay_enabled": true,
         "hideChatAvatars_enabled": false,
         "max_context_unlocked": false,
-        "message_token_count_enabled": false,
+        "message_token_count_enabled": true,
         "expand_message_actions": false,
         "enableZenSliders": false,
         "enableLabMode": false,
