@@ -388,7 +388,9 @@
         "auto_connect": true,
         "auto_load_chat": false,
         "forbid_external_media": true,
-        "external_media_allowed_overrides": [],
+        "external_media_allowed_overrides": [
+            "Your girlfriend is a Catgirl.png"
+        ],
         "external_media_forbidden_overrides": [],
         "ui_mode": 1,
         "auto_sort_tags": false,
