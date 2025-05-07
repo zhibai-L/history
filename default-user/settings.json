@@ -2674,7 +2674,7 @@
         "use_alt_scale": false,
         "squash_system_messages": false,
         "image_inlining": false,
-        "inline_image_quality": "low",
+        "inline_image_quality": "high",
         "bypass_status_check": false,
         "continue_prefill": false,
         "function_calling": false,
