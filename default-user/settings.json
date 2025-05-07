@@ -2647,8 +2647,8 @@
         "n": 1
     },
     "background": {
-        "name": "japan classroom.jpg",
-        "url": "url(\"backgrounds/japan classroom.jpg\")",
+        "name": "japan university.jpg",
+        "url": "url(\"backgrounds/japan university.jpg\")",
         "fitting": "classic"
     },
     "proxies": [
