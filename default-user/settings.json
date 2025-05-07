@@ -206,7 +206,7 @@
         "smooth_streaming_speed": 70,
         "fast_ui_mode": false,
         "avatar_style": 1,
-        "chat_display": 1,
+        "chat_display": 0,
         "chat_width": 62,
         "never_resize_avatars": false,
         "show_card_avatar_urls": false,
