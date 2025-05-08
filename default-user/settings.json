@@ -4,7 +4,7 @@
         "__migrated": "1",
         "NavOpened": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
-        "LNavOpened": "false",
+        "LNavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "AlertWI_- juus -.png": "true",
         "AlertRegex_- juus -.png": "true",
@@ -1419,7 +1419,7 @@
                 "marker": false,
                 "name": "🎉字数控制",
                 "role": "system",
-                "content": "<number_of_words>\nApex will provide content no less than 700 words in Chinese \n</number_of_words>\n",
+                "content": "<number_of_words>\nApex will provide content no less than 700 words in Chinese \nApex will provide content no more than 2000 words in Chinese \n</number_of_words>\n",
                 "injection_position": 1,
                 "injection_depth": 1,
                 "forbid_overrides": false
