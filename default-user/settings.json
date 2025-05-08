@@ -12,7 +12,7 @@
     },
     "currentVersion": "1.12.14",
     "username": "le",
-    "active_character": "default_Seraphina.png",
+    "active_character": null,
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
