@@ -532,7 +532,8 @@
             }
         ],
         "character_allowed_regex": [
-            "- juus -.png"
+            "- juus -.png",
+            "我在末世当系统.png"
         ],
         "tts": {
             "voiceMap": "",
