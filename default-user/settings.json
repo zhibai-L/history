@@ -9,11 +9,13 @@
         "AlertWI_- juus -.png": "true",
         "AlertRegex_- juus -.png": "true",
         "WINavOpened": "true",
-        "extension_update_nag": "Sun May 11 2025"
+        "extension_update_nag": "Sun May 11 2025",
+        "AlertWI_我在末世当系统.png": "true",
+        "AlertRegex_我在末世当系统.png": "true"
     },
     "currentVersion": "1.12.14",
     "username": "le",
-    "active_character": null,
+    "active_character": "我在末世当系统.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -977,7 +979,8 @@
         ],
         "null": [],
         "- juus -.png": [],
-        "Your girlfriend is a Catgirl.png": []
+        "Your girlfriend is a Catgirl.png": [],
+        "我在末世当系统.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
