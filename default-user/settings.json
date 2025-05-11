@@ -11,7 +11,8 @@
         "WINavOpened": "true",
         "extension_update_nag": "Sun May 11 2025",
         "AlertWI_我在末世当系统.png": "true",
-        "AlertRegex_我在末世当系统.png": "true"
+        "AlertRegex_我在末世当系统.png": "true",
+        "mediaWarningShown:我在末世当系统.png": "true"
     },
     "currentVersion": "1.12.14",
     "username": "le",
