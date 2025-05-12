@@ -4,7 +4,7 @@
         "__migrated": "1",
         "NavOpened": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
-        "LNavOpened": "false",
+        "LNavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "AlertWI_- juus -.png": "true",
         "AlertRegex_- juus -.png": "true",
@@ -1045,7 +1045,7 @@
         "seed": -1
     },
     "oai_settings": {
-        "preset_settings_openai": "快捷 我在末世当系统",
+        "preset_settings_openai": "kemini 4.0 正式版 3",
         "temp_openai": 1.2,
         "freq_pen_openai": 0,
         "pres_pen_openai": 0,
@@ -1056,7 +1056,7 @@
         "repetition_penalty_openai": 1,
         "stream_openai": false,
         "openai_max_context": 1000000,
-        "openai_max_tokens": 4096,
+        "openai_max_tokens": 65535,
         "wrap_in_quotes": false,
         "prompts": [
             {
@@ -1425,7 +1425,7 @@
                 "marker": false,
                 "name": "🎉字数控制",
                 "role": "system",
-                "content": "<number_of_words>\nApex will provide content no less than 700 words in Chinese \nApex will provide content no more than 2000 words in Chinese \n</number_of_words>\n",
+                "content": "<number_of_words>\nApex will provide content no less than 700 words in Chinese \n</number_of_words>\n",
                 "injection_position": 1,
                 "injection_depth": 1,
                 "forbid_overrides": false
@@ -2434,7 +2434,7 @@
                     },
                     {
                         "identifier": "751a591c-3357-4902-8ae6-81df592d09d1",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "23f755cb-dd84-4510-b104-22cc97a16712",
@@ -2651,7 +2651,7 @@
         "zerooneai_model": "yi-large",
         "deepseek_model": "deepseek-chat",
         "xai_model": "grok-3-beta",
-        "custom_model": "[yy]gemini-2.5-pro-exp-03-25",
+        "custom_model": "gemini-2.5-pro-exp-03-25",
         "custom_url": "https://new.api-kk.shop/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
@@ -2677,7 +2677,7 @@
         "use_alt_scale": false,
         "squash_system_messages": false,
         "image_inlining": false,
-        "inline_image_quality": "high",
+        "inline_image_quality": "low",
         "bypass_status_check": false,
         "continue_prefill": false,
         "function_calling": false,
