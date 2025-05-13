@@ -4,10 +4,15 @@
         "__migrated": "1",
         "NavOpened": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
-        "LNavOpened": "true",
+        "LNavOpened": "false",
         "SelectedNavTab": "rm_button_characters",
         "AlertWI_- juus -.png": "true",
-        "AlertRegex_- juus -.png": "true"
+        "AlertRegex_- juus -.png": "true",
+        "WINavOpened": "true",
+        "extension_update_nag": "Wed May 14 2025",
+        "AlertWI_我在末世当系统.png": "true",
+        "AlertRegex_我在末世当系统.png": "true",
+        "mediaWarningShown:我在末世当系统.png": "true"
     },
     "currentVersion": "1.12.14",
     "username": "le",
@@ -21,7 +26,10 @@
     "main_api": "openai",
     "world_info_settings": {
         "world_info": {
-            "globalSelect": []
+            "globalSelect": [
+                "R佬世界书涩涩小说描写风格",
+                "女性高潮参考资料"
+            ]
         },
         "world_info_depth": 2,
         "world_info_min_activations": 0,
@@ -203,11 +211,11 @@
         "chat_truncation": 100,
         "streaming_fps": 30,
         "smooth_streaming": false,
-        "smooth_streaming_speed": 50,
-        "fast_ui_mode": true,
+        "smooth_streaming_speed": 70,
+        "fast_ui_mode": false,
         "avatar_style": 0,
         "chat_display": 0,
-        "chat_width": 56,
+        "chat_width": 69,
         "never_resize_avatars": false,
         "show_card_avatar_urls": false,
         "play_message_sound": false,
@@ -218,25 +226,25 @@
         "sort_order": "asc",
         "sort_rule": null,
         "font_scale": 1,
-        "blur_strength": 10,
+        "blur_strength": 13,
         "shadow_width": 2,
-        "main_text_color": "rgba(220, 220, 210, 1)",
+        "main_text_color": "rgba(207, 207, 197, 1)",
         "italics_text_color": "rgba(145, 145, 145, 1)",
-        "underline_text_color": "rgba(188, 231, 207, 1)",
-        "quote_text_color": "rgba(225, 138, 36, 1)",
-        "blur_tint_color": "rgba(23, 23, 23, 1)",
-        "chat_tint_color": "rgba(23, 23, 23, 1)",
-        "user_mes_blur_tint_color": "rgba(30, 30, 30, 0.9)",
-        "bot_mes_blur_tint_color": "rgba(30, 30, 30, 0.9)",
-        "shadow_color": "rgba(0, 0, 0, 1)",
-        "border_color": "rgba(0, 0, 0, 0.5)",
+        "underline_text_color": "rgba(145, 145, 145, 1)",
+        "quote_text_color": "rgba(198, 193, 151, 1)",
+        "blur_tint_color": "rgba(29, 33, 40, 0.9)",
+        "chat_tint_color": "rgba(29, 33, 40, 0.9)",
+        "user_mes_blur_tint_color": "rgba(29, 33, 40, 0.9)",
+        "bot_mes_blur_tint_color": "rgba(29, 33, 40, 0.9)",
+        "shadow_color": "rgba(0, 0, 0, 0.9)",
+        "border_color": "rgba(0, 0, 0, 1)",
         "custom_css": "",
         "waifuMode": false,
         "movingUI": false,
         "movingUIState": {},
         "movingUIPreset": "Default",
-        "noShadows": true,
-        "theme": "Dark Lite",
+        "noShadows": false,
+        "theme": "Dark V 1.0",
         "gestures": true,
         "auto_swipe": false,
         "auto_swipe_minimum_length": 0,
@@ -252,8 +260,8 @@
         "allow_name2_display": false,
         "hotswap_enabled": true,
         "timer_enabled": false,
-        "timestamps_enabled": true,
-        "timestamp_model_icon": true,
+        "timestamps_enabled": false,
+        "timestamp_model_icon": false,
         "mesIDDisplay_enabled": false,
         "hideChatAvatars_enabled": false,
         "max_context_unlocked": false,
@@ -357,8 +365,8 @@
         "fuzzy_search": true,
         "encode_tags": false,
         "servers": [],
-        "bogus_folders": false,
-        "zoomed_avatar_magnification": false,
+        "bogus_folders": true,
+        "zoomed_avatar_magnification": true,
         "show_tag_filters": false,
         "aux_field": "character_version",
         "stscript": {
@@ -382,13 +390,15 @@
             }
         },
         "restore_user_input": true,
-        "reduced_motion": false,
-        "compact_input_area": true,
-        "show_swipe_num_all_messages": false,
+        "reduced_motion": true,
+        "compact_input_area": false,
+        "show_swipe_num_all_messages": "",
         "auto_connect": true,
         "auto_load_chat": false,
         "forbid_external_media": true,
-        "external_media_allowed_overrides": [],
+        "external_media_allowed_overrides": [
+            "Your girlfriend is a Catgirl.png"
+        ],
         "external_media_forbidden_overrides": [],
         "ui_mode": 1,
         "auto_sort_tags": false,
@@ -402,10 +412,8 @@
         "apiUrl": "http://localhost:5100",
         "apiKey": "",
         "autoConnect": false,
-        "notifyUpdates": false,
-        "disabledExtensions": [
-            "third-party/st-memory-enhancement"
-        ],
+        "notifyUpdates": true,
+        "disabledExtensions": [],
         "expressionOverrides": [],
         "memory": {
             "minLongMemory": 16,
@@ -488,9 +496,45 @@
             "profiles": []
         },
         "dice": {},
-        "regex": [],
+        "regex": [
+            {
+                "id": "2cf4067a-768f-43a4-b810-65379996c119",
+                "scriptName": "【Kemini】添加tag",
+                "findRegex": "^([\\s\\S]*)$",
+                "replaceString": "<user_input>\n$1\n</user_input>",
+                "trimStrings": [],
+                "placement": [
+                    1
+                ],
+                "disabled": false,
+                "markdownOnly": true,
+                "promptOnly": true,
+                "runOnEdit": true,
+                "substituteRegex": 0,
+                "minDepth": null,
+                "maxDepth": 1
+            },
+            {
+                "id": "0cc858a0-f29e-4dfa-9652-c6b9067f46d1",
+                "scriptName": "【Kemini】移除大小思维链和免责声明",
+                "findRegex": "/(<guifan>.*?</guifan>)|(<!-- State(.*?)d(.*?) -->(\\n)?)|(<!-- consider: (.*?) -->(\\n)?)|(.*?</think(ing)?>(\\n)?)|(<thinking?>[\\s\\S]*<\\/thinking?>(\\n)?)/gs",
+                "replaceString": "",
+                "trimStrings": [],
+                "placement": [
+                    2
+                ],
+                "disabled": false,
+                "markdownOnly": true,
+                "promptOnly": true,
+                "runOnEdit": true,
+                "substituteRegex": 0,
+                "minDepth": null,
+                "maxDepth": null
+            }
+        ],
         "character_allowed_regex": [
-            "- juus -.png"
+            "- juus -.png",
+            "我在末世当系统.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -936,7 +980,9 @@
             "1345561466591"
         ],
         "null": [],
-        "- juus -.png": []
+        "- juus -.png": [],
+        "Your girlfriend is a Catgirl.png": [],
+        "我在末世当系统.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -2605,8 +2651,8 @@
         "zerooneai_model": "yi-large",
         "deepseek_model": "deepseek-chat",
         "xai_model": "grok-3-beta",
-        "custom_model": "gemini-2.5-pro-exp-03-25",
-        "custom_url": "",
+        "custom_model": "gemini-2.5-pro-preview-05-06",
+        "custom_url": "https://new.api-kk.shop/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",
@@ -2646,8 +2692,8 @@
         "n": 1
     },
     "background": {
-        "name": "japan classroom.jpg",
-        "url": "url(\"backgrounds/japan classroom.jpg\")",
+        "name": "japan university.jpg",
+        "url": "url(\"backgrounds/japan university.jpg\")",
         "fitting": "classic"
     },
     "proxies": [
