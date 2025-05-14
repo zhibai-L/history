@@ -215,7 +215,7 @@
         "fast_ui_mode": false,
         "avatar_style": 0,
         "chat_display": 0,
-        "chat_width": 69,
+        "chat_width": 62,
         "never_resize_avatars": false,
         "show_card_avatar_urls": false,
         "play_message_sound": false,
