@@ -18,10 +18,10 @@
     "avatar_style": 1,
     "chat_display": 1,
     "noShadows": false,
-    "chat_width": 50,
+    "chat_width": 58,
     "timer_enabled": true,
     "timestamps_enabled": true,
-    "timestamp_model_icon": false,
+    "timestamp_model_icon": true,
     "mesIDDisplay_enabled": true,
     "hideChatAvatars_enabled": false,
     "message_token_count_enabled": false,
@@ -31,6 +31,8 @@
     "hotswap_enabled": true,
     "custom_css": "",
     "bogus_folders": false,
+    "zoomed_avatar_magnification": false,
     "reduced_motion": false,
-    "compact_input_area": false
+    "compact_input_area": false,
+    "show_swipe_num_all_messages": ""
 }
