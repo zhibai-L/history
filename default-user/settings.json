@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "LNavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
@@ -261,7 +261,7 @@
         "hotswap_enabled": true,
         "timer_enabled": true,
         "timestamps_enabled": true,
-        "timestamp_model_icon": false,
+        "timestamp_model_icon": true,
         "mesIDDisplay_enabled": true,
         "hideChatAvatars_enabled": false,
         "max_context_unlocked": false,
