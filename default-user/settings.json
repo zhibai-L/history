@@ -2,9 +2,9 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "true",
+        "NavOpened": "false",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
-        "LNavOpened": "true",
+        "LNavOpened": "false",
         "SelectedNavTab": "rm_button_selected_ch",
         "AlertWI_- juus -.png": "true",
         "AlertRegex_- juus -.png": "true",
@@ -394,7 +394,7 @@
         "show_swipe_num_all_messages": "",
         "auto_connect": true,
         "auto_load_chat": false,
-        "forbid_external_media": true,
+        "forbid_external_media": false,
         "external_media_allowed_overrides": [
             "Your girlfriend is a Catgirl.png"
         ],
