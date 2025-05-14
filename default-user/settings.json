@@ -10,9 +10,7 @@
         "AlertRegex_- juus -.png": "true",
         "WINavOpened": "true",
         "extension_update_nag": "Wed May 14 2025",
-        "AlertWI_我在末世当系统.png": "true",
-        "AlertRegex_我在末世当系统.png": "true",
-        "mediaWarningShown:我在末世当系统.png": "true"
+        "AlertRegex_我在末世当系统.png": "true"
     },
     "currentVersion": "1.12.14",
     "username": "le",
@@ -1512,7 +1510,8 @@
         },
         "attachments": [],
         "character_attachments": {
-            "我在末世当系统.png": []
+            "我在末世当系统.png": [],
+            "- juus -.png": []
         },
         "disabled_attachments": [],
         "gallery": {
