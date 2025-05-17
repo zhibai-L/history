@@ -1278,8 +1278,23 @@
             "custom": []
         },
         "connectionManager": {
-            "selectedProfile": "",
-            "profiles": []
+            "selectedProfile": "63808090-e634-4794-87f1-f19ee683f910",
+            "profiles": [
+                {
+                    "id": "63808090-e634-4794-87f1-f19ee683f910",
+                    "mode": "cc",
+                    "exclude": [],
+                    "api": "custom",
+                    "preset": "椿色1.1.1by Inseln",
+                    "api-url": "https://new.api-kk.shop/v1",
+                    "model": "gemini-2.0-flash-exp",
+                    "proxy": "None",
+                    "stop-strings": "",
+                    "start-reply-with": "",
+                    "reasoning-template": "DeepSeek",
+                    "name": "custom gemini-2.0-flash-exp - 椿色1.1.1by Inseln"
+                }
+            ]
         },
         "dice": {},
         "regex": [
@@ -2653,7 +2668,7 @@
         "deepseek_model": "deepseek-chat",
         "xai_model": "grok-3-beta",
         "custom_model": "gemini-2.0-flash-exp",
-        "custom_url": "https://new.api-kk.shop/v1",
+        "custom_url": "https://kka3-second.hf.space/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",
