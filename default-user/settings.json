@@ -15,7 +15,7 @@
     },
     "currentVersion": "1.12.14",
     "username": "le",
-    "active_character": "Your girlfriend is a Catgirl.png",
+    "active_character": "default_Seraphina.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -26,8 +26,8 @@
     "world_info_settings": {
         "world_info": {
             "globalSelect": [
-                "R佬世界书涩涩小说描写风格",
-                "女性高潮参考资料"
+                "- juus -",
+                "Eldoria"
             ]
         },
         "world_info_depth": 2,
@@ -227,11 +227,11 @@
         "font_scale": 1,
         "blur_strength": 11,
         "shadow_width": 5,
-        "main_text_color": "rgba(243, 165, 176, 1)",
+        "main_text_color": "rgba(171, 198, 223, 1)",
         "italics_text_color": "rgba(255, 255, 255, 1)",
         "underline_text_color": "rgba(188, 231, 207, 1)",
         "quote_text_color": "rgba(111, 133, 253, 1)",
-        "blur_tint_color": "rgba(36, 50, 48, 1)",
+        "blur_tint_color": "rgba(23, 30, 33, 0.61)",
         "chat_tint_color": "rgba(23, 23, 23, 0)",
         "user_mes_blur_tint_color": "rgba(0, 28, 174, 0.2)",
         "bot_mes_blur_tint_color": "rgba(0, 13, 57, 0.22)",
@@ -1512,8 +1512,7 @@
         "attachments": [],
         "character_attachments": {
             "我在末世当系统.png": [],
-            "- juus -.png": [],
-            "Your girlfriend is a Catgirl.png": []
+            "- juus -.png": []
         },
         "disabled_attachments": [],
         "gallery": {
@@ -1529,9 +1528,8 @@
         },
         "quickReplyV2": {
             "isEnabled": false,
-            "isCombined": true,
+            "isCombined": false,
             "isPopout": false,
-            "showPopoutButton": true,
             "config": {
                 "setList": [
                     {
@@ -3113,7 +3111,7 @@
                     },
                     {
                         "identifier": "0c4f1d5f-c14b-42c4-b676-d396beafcd90",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "d76b00b7-7e31-4468-87c0-3a064af470a0",
