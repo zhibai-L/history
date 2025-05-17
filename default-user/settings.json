@@ -1998,7 +1998,7 @@
                 "marker": false,
                 "name": "✅字数优化",
                 "role": "user",
-                "content": "你每次必须输出字数在600-800字之间，8-12个段落之间，保持分段美观不拥挤，长短句结合，一个段落最长不能超过80字",
+                "content": "你每次必须输出字数在2000-4000字之间，8-12个段落之间，保持分段美观不拥挤，长短句结合，一个段落最长不能超过800字",
                 "injection_position": 1,
                 "injection_depth": 0,
                 "forbid_overrides": false
