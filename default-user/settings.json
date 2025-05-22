@@ -9,7 +9,7 @@
         "AlertWI_- juus -.png": "true",
         "AlertRegex_- juus -.png": "true",
         "WINavOpened": "true",
-        "extension_update_nag": "Thu May 22 2025",
+        "extension_update_nag": "Fri May 23 2025",
         "AlertRegex_我在末世当系统.png": "true",
         "extensions_sortByName": "true"
     },
@@ -214,7 +214,7 @@
         "fast_ui_mode": false,
         "avatar_style": 0,
         "chat_display": 1,
-        "chat_width": 94,
+        "chat_width": 74,
         "never_resize_avatars": false,
         "show_card_avatar_urls": false,
         "play_message_sound": false,
