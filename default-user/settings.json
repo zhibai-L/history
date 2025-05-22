@@ -214,7 +214,7 @@
         "fast_ui_mode": false,
         "avatar_style": 0,
         "chat_display": 1,
-        "chat_width": 74,
+        "chat_width": 66,
         "never_resize_avatars": false,
         "show_card_avatar_urls": false,
         "play_message_sound": false,
@@ -1860,7 +1860,7 @@
         "repetition_penalty_openai": 1,
         "stream_openai": true,
         "openai_max_context": 52000,
-        "openai_max_tokens": 8000,
+        "openai_max_tokens": 4000,
         "wrap_in_quotes": false,
         "prompts": [
             {
@@ -2667,7 +2667,7 @@
         "zerooneai_model": "yi-large",
         "deepseek_model": "deepseek-chat",
         "xai_model": "grok-3-beta",
-        "custom_model": "gemini-2.5-flash-preview-05-20",
+        "custom_model": "deepseek-v3",
         "custom_url": "https://new.api-kk.shop/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
