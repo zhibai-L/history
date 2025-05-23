@@ -11,11 +11,13 @@
         "WINavOpened": "true",
         "extension_update_nag": "Fri May 23 2025",
         "AlertRegex_我在末世当系统.png": "true",
-        "extensions_sortByName": "true"
+        "extensions_sortByName": "true",
+        "AlertWI_方亦楷.png": "true",
+        "AlertRegex_方亦楷.png": "true"
     },
     "currentVersion": "1.12.14",
     "username": "le",
-    "active_character": "default_Seraphina.png",
+    "active_character": "方亦楷.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -1335,7 +1337,8 @@
         ],
         "character_allowed_regex": [
             "- juus -.png",
-            "我在末世当系统.png"
+            "我在末世当系统.png",
+            "方亦楷.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -1786,7 +1789,8 @@
         "null": [],
         "- juus -.png": [],
         "Your girlfriend is a Catgirl.png": [],
-        "我在末世当系统.png": []
+        "我在末世当系统.png": [],
+        "方亦楷.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
