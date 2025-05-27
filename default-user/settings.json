@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "LNavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
@@ -17,7 +17,7 @@
     },
     "currentVersion": "1.12.14",
     "username": "le",
-    "active_character": "default_Seraphina.png",
+    "active_character": "Your girlfriend is a Catgirl.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
