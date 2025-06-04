@@ -4,7 +4,7 @@
         "__migrated": "1",
         "NavOpened": "false",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
-        "LNavOpened": "false",
+        "LNavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "AlertWI_- juus -.png": "true",
         "AlertRegex_- juus -.png": "true",
@@ -17,7 +17,7 @@
     },
     "currentVersion": "1.13.0",
     "username": "le",
-    "active_character": "Your girlfriend is a Catgirl.png",
+    "active_character": "方亦楷.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -28,8 +28,7 @@
     "world_info_settings": {
         "world_info": {
             "globalSelect": [
-                "- juus -",
-                "Eldoria"
+                "🎤方亦楷和他那没存在过的七年之痒（带手机）"
             ]
         },
         "world_info_depth": 2,
@@ -3502,7 +3501,7 @@
         "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": false,
-        "proxy_password": "",
+        "proxy_password": "12345677",
         "assistant_prefill": "",
         "assistant_impersonation": "",
         "claude_use_sysprompt": false,
