@@ -199,3 +199,7 @@ presets/instruct/DeepSeek-V2.5.json
 presets/context/DeepSeek-V2.5.json
 presets/reasoning/DeepSeek.json
 presets/reasoning/Blank.json
+presets/context/Metharme.json
+presets/sysprompt/Lightning 1.1.json
+presets/instruct/GLM-4.json
+presets/context/GLM-4.json
