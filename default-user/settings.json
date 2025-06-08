@@ -369,7 +369,13 @@
         "custom_stopping_strings_macro": true,
         "fuzzy_search": true,
         "encode_tags": false,
-        "servers": [],
+        "servers": [
+            {
+                "label": "kobold",
+                "url": "http://127.0.0.1:5000/api",
+                "lastConnection": 1749399473996
+            }
+        ],
         "bogus_folders": true,
         "zoomed_avatar_magnification": false,
         "show_tag_filters": false,
@@ -3497,7 +3503,7 @@
         "openrouter_allow_fallbacks": true,
         "openrouter_middleout": "on",
         "reverse_proxy": "",
-        "chat_completion_source": "custom",
+        "chat_completion_source": "openai",
         "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": false,
