@@ -3489,7 +3489,7 @@
         "deepseek_model": "deepseek-chat",
         "xai_model": "grok-3-beta",
         "pollinations_model": "openai",
-        "custom_model": "[PAY]gemini-2.5-pro-preview-03-25",
+        "custom_model": "[PAY]gemini-2.5-pro-preview-06-05",
         "custom_url": "https://kka3-vertex2.hf.space/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
