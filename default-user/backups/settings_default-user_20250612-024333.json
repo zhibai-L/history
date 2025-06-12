@@ -2,20 +2,20 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "LNavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "AlertWI_- juus -.png": "true",
         "AlertRegex_- juus -.png": "true",
         "WINavOpened": "true",
-        "extension_update_nag": "Tue May 27 2025",
+        "extension_update_nag": "Thu Jun 12 2025",
         "AlertRegex_我在末世当系统.png": "true",
         "extensions_sortByName": "true",
         "AlertWI_方亦楷.png": "true",
         "AlertRegex_方亦楷.png": "true"
     },
-    "currentVersion": "1.12.14",
+    "currentVersion": "1.13.0",
     "username": "le",
     "active_character": "Your girlfriend is a Catgirl.png",
     "active_group": null,
@@ -28,8 +28,7 @@
     "world_info_settings": {
         "world_info": {
             "globalSelect": [
-                "- juus -",
-                "Eldoria"
+                "女性高潮参考资料"
             ]
         },
         "world_info_depth": 2,
@@ -124,8 +123,11 @@
             "no_repeat_ngram"
         ],
         "samplers": [
+            "penalties",
             "dry",
+            "top_n_sigma",
             "top_k",
+            "typ_p",
             "tfs_z",
             "typical_p",
             "top_p",
@@ -181,6 +183,7 @@
         "xtc_threshold": 0.1,
         "xtc_probability": 0,
         "nsigma": 0,
+        "min_keep": 0,
         "featherless_model": "",
         "generic_model": "",
         "rep_pen_size": 0
@@ -210,13 +213,14 @@
         },
         "markdown_escape_strings": "",
         "chat_truncation": 100,
-        "streaming_fps": 30,
+        "streaming_fps": 50,
         "smooth_streaming": false,
         "smooth_streaming_speed": 70,
         "fast_ui_mode": false,
         "avatar_style": 0,
         "chat_display": 1,
-        "chat_width": 61,
+        "toastr_position": "toast-top-center",
+        "chat_width": 58,
         "never_resize_avatars": false,
         "show_card_avatar_urls": false,
         "play_message_sound": false,
@@ -365,7 +369,13 @@
         "custom_stopping_strings_macro": true,
         "fuzzy_search": true,
         "encode_tags": false,
-        "servers": [],
+        "servers": [
+            {
+                "label": "kobold",
+                "url": "http://127.0.0.1:5000/api",
+                "lastConnection": 1749399473996
+            }
+        ],
         "bogus_folders": true,
         "zoomed_avatar_magnification": false,
         "show_tag_filters": false,
@@ -401,6 +411,8 @@
             "Your girlfriend is a Catgirl.png"
         ],
         "external_media_forbidden_overrides": [],
+        "pin_styles": true,
+        "click_to_edit": false,
         "ui_mode": 1,
         "auto_sort_tags": false,
         "selectSamplers": {
@@ -1854,7 +1866,7 @@
     },
     "oai_settings": {
         "preset_settings_openai": "kemini 4.5 0417 2",
-        "temp_openai": 1.1,
+        "temp_openai": 1,
         "freq_pen_openai": 0,
         "pres_pen_openai": 0,
         "top_p_openai": 0.95,
@@ -3466,6 +3478,7 @@
         "openai_model": "gpt-4-turbo",
         "claude_model": "claude-3-5-sonnet-20240620",
         "google_model": "gemini-2.5-flash-preview-04-17",
+        "vertexai_model": "gemini-2.0-flash-001",
         "ai21_model": "jamba-1.5-large",
         "mistralai_model": "mistral-large-latest",
         "cohere_model": "command-r-plus",
@@ -3475,7 +3488,8 @@
         "zerooneai_model": "yi-large",
         "deepseek_model": "deepseek-chat",
         "xai_model": "grok-3-beta",
-        "custom_model": "gemini-2.5-flash-preview-05-20",
+        "pollinations_model": "openai",
+        "custom_model": "[vh]gemini-2.5-pro-preview-05-06",
         "custom_url": "https://new.api-kk.shop/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
@@ -3513,7 +3527,8 @@
         "enable_web_search": false,
         "request_images": false,
         "seed": -1,
-        "n": 1
+        "n": 1,
+        "bind_preset_to_connection": true
     },
     "background": {
         "name": "japan path cherry blossom.jpg",
