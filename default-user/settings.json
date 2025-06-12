@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "LNavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
@@ -15,11 +15,14 @@
         "AlertWI_方亦楷.png": "true",
         "AlertRegex_方亦楷.png": "true",
         "AlertWI_苏纤与苏萌 （ntl版）.png": "true",
-        "AlertRegex_苏纤与苏萌 （ntl版）.png": "true"
+        "AlertRegex_苏纤与苏萌 （ntl版）.png": "true",
+        "AlertWI_我的川渝BBW妈妈，私底下却是贵妇圈淫乱派对的大姐头.png": "true",
+        "AlertWI_妈妈乳牛牧场beta.png": "true",
+        "AlertRegex_妈妈乳牛牧场beta.png": "true"
     },
     "currentVersion": "1.13.0",
     "username": "le",
-    "active_character": "苏纤与苏萌 （ntl版）.png",
+    "active_character": "妈妈乳牛牧场beta.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -30,8 +33,7 @@
     "world_info_settings": {
         "world_info": {
             "globalSelect": [
-                "！绿奴献妻 ntl版",
-                "女性高潮参考资料"
+                "妈妈乳牛牧场beta"
             ]
         },
         "world_info_depth": 2,
@@ -1388,7 +1390,8 @@
             "- juus -.png",
             "我在末世当系统.png",
             "方亦楷.png",
-            "苏纤与苏萌 （ntl版）.png"
+            "苏纤与苏萌 （ntl版）.png",
+            "妈妈乳牛牧场beta.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -1841,7 +1844,9 @@
         "Your girlfriend is a Catgirl.png": [],
         "我在末世当系统.png": [],
         "方亦楷.png": [],
-        "苏纤与苏萌 （ntl版）.png": []
+        "苏纤与苏萌 （ntl版）.png": [],
+        "我的川渝BBW妈妈，私底下却是贵妇圈淫乱派对的大姐头.png": [],
+        "妈妈乳牛牧场beta.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
