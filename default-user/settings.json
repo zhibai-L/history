@@ -1215,7 +1215,7 @@
     },
     "extension_settings": {
         "apiUrl": "http://localhost:5100",
-        "apiKey": "",
+        "apiKey": "pst-Qbdq2uSmr1KV5S9xkCLhRx1c4LBQ6nQw5lq0wDJ6HBc9BPn4eH3ybnnDCV6MJHje",
         "autoConnect": false,
         "notifyUpdates": true,
         "disabledExtensions": [],
@@ -1476,7 +1476,7 @@
             "clip_skip_min": 1,
             "clip_skip_max": 12,
             "clip_skip_step": 1,
-            "clip_skip": 1,
+            "clip_skip": 8,
             "novel_anlas_guard": false,
             "novel_sm": false,
             "novel_sm_dyn": false,
