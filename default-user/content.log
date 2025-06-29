@@ -203,3 +203,5 @@ presets/context/Metharme.json
 presets/sysprompt/Lightning 1.1.json
 presets/instruct/GLM-4.json
 presets/context/GLM-4.json
+presets/instruct/Dots1.json
+presets/context/Dots1.json

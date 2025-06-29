@@ -9,7 +9,7 @@
         "AlertWI_- juus -.png": "true",
         "AlertRegex_- juus -.png": "true",
         "WINavOpened": "true",
-        "extension_update_nag": "Sun Jun 29 2025",
+        "extension_update_nag": "Tue Jun 24 2025",
         "AlertRegex_我在末世当系统.png": "true",
         "extensions_sortByName": "true",
         "AlertWI_方亦楷.png": "true",
@@ -22,7 +22,7 @@
     },
     "currentVersion": "1.13.1",
     "username": "le",
-    "active_character": "雪臣.png",
+    "active_character": "default_Seraphina.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -1850,8 +1850,7 @@
         "方亦楷.png": [],
         "苏纤与苏萌 （ntl版）.png": [],
         "我的川渝BBW妈妈，私底下却是贵妇圈淫乱派对的大姐头.png": [],
-        "妈妈乳牛牧场beta.png": [],
-        "雪臣.png": []
+        "妈妈乳牛牧场beta.png": []
     },
     "nai_settings": {
         "temperature": 1.5,

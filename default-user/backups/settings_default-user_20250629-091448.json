@@ -9,7 +9,7 @@
         "AlertWI_- juus -.png": "true",
         "AlertRegex_- juus -.png": "true",
         "WINavOpened": "true",
-        "extension_update_nag": "Sun Jun 29 2025",
+        "extension_update_nag": "Tue Jun 24 2025",
         "AlertRegex_我在末世当系统.png": "true",
         "extensions_sortByName": "true",
         "AlertWI_方亦楷.png": "true",
@@ -20,9 +20,9 @@
         "AlertWI_妈妈乳牛牧场beta.png": "true",
         "AlertRegex_妈妈乳牛牧场beta.png": "true"
     },
-    "currentVersion": "1.13.1",
+    "currentVersion": "1.13.0",
     "username": "le",
-    "active_character": "雪臣.png",
+    "active_character": "default_Seraphina.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -402,8 +402,7 @@
                     "left": 1,
                     "right": 1
                 },
-                "select": 3,
-                "state": 2
+                "select": 3
             }
         },
         "restore_user_input": true,
@@ -1295,8 +1294,7 @@
             "api": 99,
             "llmPrompt": "Ignore previous instructions. Classify the emotion of the last message. Output just one word, e.g. \"joy\" or \"anger\". Choose only one of the following labels: {{labels}}",
             "allowMultiple": true,
-            "custom": [],
-            "promptType": "raw"
+            "custom": []
         },
         "connectionManager": {
             "selectedProfile": "63808090-e634-4794-87f1-f19ee683f910",
@@ -1502,9 +1500,7 @@
             "tool_visible": false,
             "stability_style_preset": "anime",
             "bfl_upsampling": false,
-            "character_negative_prompts": {},
-            "google_api": "makersuite",
-            "google_enhance": true
+            "character_negative_prompts": {}
         },
         "chromadb": {},
         "translate": {
@@ -1850,8 +1846,7 @@
         "方亦楷.png": [],
         "苏纤与苏萌 （ntl版）.png": [],
         "我的川渝BBW妈妈，私底下却是贵妇圈淫乱派对的大姐头.png": [],
-        "妈妈乳牛牧场beta.png": [],
-        "雪臣.png": []
+        "妈妈乳牛牧场beta.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -3798,7 +3793,6 @@
         "nanogpt_model": "gpt-4o-mini",
         "zerooneai_model": "yi-large",
         "deepseek_model": "deepseek-chat",
-        "aimlapi_model": "gpt-4o-mini-2024-07-18",
         "xai_model": "grok-3-beta",
         "pollinations_model": "openai",
         "custom_model": "[ch]gemini-2.5-pro",
@@ -3824,14 +3818,10 @@
         "assistant_impersonation": "",
         "claude_use_sysprompt": false,
         "use_makersuite_sysprompt": false,
-        "vertexai_auth_mode": "express",
-        "vertexai_region": "us-central1",
-        "vertexai_express_project_id": "",
         "use_alt_scale": false,
         "squash_system_messages": false,
         "image_inlining": false,
         "inline_image_quality": "low",
-        "video_inlining": false,
         "bypass_status_check": true,
         "continue_prefill": false,
         "function_calling": false,
@@ -3849,8 +3839,7 @@
     "background": {
         "name": "japan path cherry blossom.jpg",
         "url": "url(\"backgrounds/japan path cherry blossom.jpg\")",
-        "fitting": "classic",
-        "animation": false
+        "fitting": "classic"
     },
     "proxies": [
         {
