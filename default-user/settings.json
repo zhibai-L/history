@@ -18,11 +18,12 @@
         "AlertRegex_苏纤与苏萌 （ntl版）.png": "true",
         "AlertWI_我的川渝BBW妈妈，私底下却是贵妇圈淫乱派对的大姐头.png": "true",
         "AlertWI_妈妈乳牛牧场beta.png": "true",
-        "AlertRegex_妈妈乳牛牧场beta.png": "true"
+        "AlertRegex_妈妈乳牛牧场beta.png": "true",
+        "AlertRegex_方亦楷1.png": "true"
     },
     "currentVersion": "1.13.1",
     "username": "le",
-    "active_character": "雪臣.png",
+    "active_character": "方亦楷1.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -1393,7 +1394,8 @@
             "我在末世当系统.png",
             "方亦楷.png",
             "苏纤与苏萌 （ntl版）.png",
-            "妈妈乳牛牧场beta.png"
+            "妈妈乳牛牧场beta.png",
+            "方亦楷1.png"
         ],
         "tts": {
             "voiceMap": "",
@@ -1851,7 +1853,8 @@
         "苏纤与苏萌 （ntl版）.png": [],
         "我的川渝BBW妈妈，私底下却是贵妇圈淫乱派对的大姐头.png": [],
         "妈妈乳牛牧场beta.png": [],
-        "雪臣.png": []
+        "雪臣.png": [],
+        "方亦楷1.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
