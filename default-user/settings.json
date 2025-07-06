@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "LNavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
@@ -1300,8 +1300,24 @@
             "promptType": "raw"
         },
         "connectionManager": {
-            "selectedProfile": "63808090-e634-4794-87f1-f19ee683f910",
+            "selectedProfile": "7f545652-6001-4609-8179-bb733222964c",
             "profiles": [
+                {
+                    "id": "7f545652-6001-4609-8179-bb733222964c",
+                    "mode": "cc",
+                    "exclude": [],
+                    "api": "custom",
+                    "preset": "kemini 4o 回归天空版",
+                    "api-url": "https://new.api-kk.shop/v1",
+                    "model": "[vc]gemini-2.5-pro",
+                    "proxy": "None",
+                    "stop-strings": "",
+                    "start-reply-with": "",
+                    "reasoning-template": "DeepSeek",
+                    "prompt-post-processing": "strict",
+                    "secret-id": "8e6785e1-fa6c-4cf0-9d65-2cb0a94802f2",
+                    "name": "custom [vc]gemini-2.5-pro - kemini 4o 回归天空版"
+                },
                 {
                     "id": "63808090-e634-4794-87f1-f19ee683f910",
                     "mode": "cc",
@@ -3821,7 +3837,7 @@
         "aimlapi_model": "gpt-4o-mini-2024-07-18",
         "xai_model": "grok-3-beta",
         "pollinations_model": "openai",
-        "custom_model": "[vc]gemini-2.5-pro",
+        "custom_model": "[免费B]gemini-2.5-pro",
         "custom_url": "https://new.api-kk.shop/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
